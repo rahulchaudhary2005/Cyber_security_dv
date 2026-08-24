@@ -1,6 +1,6 @@
 # 🛡️ CYBER SENTINEL: Ulusal Savunma Protokolü
 
-![Cyber Sentinel Header](_ASSETS/header_main.png)
+![Cyber Sentinel Header](cyber_security_btk_t3A-main/_ASSETS/header_main.png)
 
 <div align="center">
 
